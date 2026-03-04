@@ -1,0 +1,19 @@
+{
+    "nom": "hdfeg",
+    "date_creation": "2025-07-08 10:52:59",
+    "parametres": {
+        "couche_geocode_conso": "c_5_1_9",
+        "couche_geocode_conso_id": "c_5_1_9_713d1cec_c373_4aab_891a_83c147451b1b",
+        "champs_titulaire": "fid",
+        "champs_conso_retenu": "TRAVAUX",
+        "champs_adresse": "COORLAMY",
+        "champ_raccordement": "DATPOSE",
+        "critere_raccordement": "",
+        "ratio_hab": "2.5",
+        "autres_champs_conso": [
+            "IDNUM",
+            "CLASSE",
+            "SOURCE"
+        ]
+    }
+}

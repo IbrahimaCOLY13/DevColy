@@ -1,0 +1,15 @@
+{
+    "nom": "11111",
+    "date_creation": "2025-11-24 11:13:17",
+    "parametres": {
+        "couche_geocode_conso": "Conso_recale",
+        "couche_geocode_conso_id": "Conso_recale_d7f59004_1d80_415e_929c_2b70bccf2825",
+        "champs_titulaire": "Nom propri",
+        "champs_conso_retenu": "consos2024",
+        "champs_adresse": "adresse_OB",
+        "champ_raccordement": "Raccordeme",
+        "critere_raccordement": "RACCORDE",
+        "ratio_hab": "2.5",
+        "autres_champs_conso": []
+    }
+}
